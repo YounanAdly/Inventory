@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="array_grade_options">
+        <item>@string/grade_unknown</item>
+        <item>@string/grade_new</item>
+        <item>@string/grade_used</item>
+    </string-array>
+</resources>
